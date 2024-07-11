@@ -50,10 +50,11 @@ body {
 } */
 .banner_wrapper .banner_bottom .middle {
   background: #fff;
-  /* width: auto; */
   height: 2px;
   flex: 1 1 0;
   margin: 0 10px;
+  align-items: start !important;
+  margin-top: 7px;
 }
 .banner_wrapper .banner_bottom .right {
   padding-right: 50px;
